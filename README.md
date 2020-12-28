@@ -55,7 +55,7 @@ Releases can be found on the [release list][releases].
 For semi-official builds and third-party packages please see
 [mpv.io/installation](http://mpv.io/installation/).
 
-## Changelog
+## ChangeLog
 
 
 There is no complete changelog; however, changes to the player core interface
@@ -151,13 +151,13 @@ or cross-compile from Linux with MinGW. See
 ## Release cycle
 
 Every other month, an arbitrary git snapshot is made, and is assigned
-a 0.X.0 version number. No further maintenance is done.
+a 0.X.0 version number. No further maintenance is done as of now.
 
 The goal of releases is to make Linux distributions happy. Linux distributions
 are also expected to apply their own patches in case of bugs and security
 issues.
 
-Releases other than the latest release are unsupported and unmaintained.
+Releases, other than the latest release, are unsupported and unmaintained.
 
 See the [release policy document][release-policy] for more information.
 
@@ -166,7 +166,7 @@ See the [release policy document][release-policy] for more information.
 
 Please use the [issue tracker][issue-tracker] provided by GitHub to send us bug
 reports or feature requests. Follow the template's instructions or the issue
-will likely be ignored or closed as invalid.
+will likely be ignored or closed as it is invalid.
 
 Using the bug tracker as place for simple questions is fine but IRC is
 recommended (see [Contact](#Contact) below).
